@@ -1,3 +1,4 @@
 Hi! first line.
 Second line from idea
 Third line from remote repository
+Fourth line from conflict branch
