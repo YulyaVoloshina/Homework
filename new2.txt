@@ -1,6 +1,7 @@
 Hi! first line.
 Second line from idea
 Third line from remote repository
-Fourth line from main branch
-fifth line from local repository
-try again
+Fourth line from conflict branch
+One more line from remote repository
+try from local repository
+
